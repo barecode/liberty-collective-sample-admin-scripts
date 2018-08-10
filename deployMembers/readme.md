@@ -207,3 +207,7 @@ The steps to complete for the member configuration include:
 * Add collectiveMember feature tag below to all member's server.xml <featuremanager><feature>collectiveMember-1.0</feature></featuremanager>
 * Add Http end point tag to all member's server.xml. **Note:** You can modify the ports to match with your environment to make sure no port conflict. <httpendpoint id="defaultHttpEndpoint" host="*" httpport="9081" httpsport="9444">
 
+
+## Support Information
+
+For further information and resources for developers using IBM WebSphere Application Server, please visit [wasdev.net](http://wasdev.net).
